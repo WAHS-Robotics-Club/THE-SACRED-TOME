@@ -1,3 +1,4 @@
+# [CLICK ME](https://github.com/some16/THE-SACRED-TOME/wiki)
 # MkDocs Jekyll Theme
 
 [![CircleCI](https://circleci.com/gh/vsoch/mkdocs-jekyll/tree/master.svg?style=svg)](https://circleci.com/gh/vsoch/mkdocs-jekyll/tree/master)
